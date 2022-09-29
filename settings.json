@@ -53,7 +53,7 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "npm.keybindingsChangedWarningShown": true,
 
-  //emmet
+  // emmet
   "emmet.triggerExpansionOnTab": true,
   "editor.minimap.showSlider": "always",
   "editor.minimap.enabled": false
